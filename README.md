@@ -28,7 +28,7 @@
 <a href = "#content">📋</a>
 
 <a name="tec"/> <h2> 🛠️ Tecnology </h2> </a>
-- Script: bash
+- Script: shell
 - Oracle VM Virtual Box
 - Distro: Debian
 - Remote SSH. Tested with WSL and windows.
