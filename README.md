@@ -12,8 +12,8 @@
 </p>
 
 <a name="intro"/> <h2> Intro </h2> </a>
-- This project is the first one using a Virtual Machine. I used Debian.
-- Learned about linux OS, distros, more specific Debian and CentOS.  
+- This project is the first one using a Virtual Machine.
+- Learned about linux OS, distros, more specific Debian and CentOS. I used Debian.
 - Learned how to create a Virtual Machine using "Oracle VM Virtual Box".
 - LVM and encrypted Partition setup.
 - More topics learned AppArmor, Apt, Aptitude, SSH, UFW, Password policy, sudo command and cron schedule, mange users and groups.
