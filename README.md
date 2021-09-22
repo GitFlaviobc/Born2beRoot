@@ -16,7 +16,7 @@
 - Learned about linux OS, distros, more specific Debian and CentOS. I used Debian.
 - Learned how to create a Virtual Machine using "Oracle VM Virtual Box".
 - LVM and encrypted Partition setup.
-- More topics learned AppArmor, Apt, Aptitude, SSH, UFW, Password policy, sudo command and cron schedule, mange users and groups.
+- More topics learned AppArmor, Apt, Aptitude, SSH, UFW, Password policy, sudo command and cron schedule, manage users and groups.
 <p></p>
 <a href = "#content">📋</a>
 
