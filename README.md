@@ -37,7 +37,7 @@
 
 <a name="function"/> <h2> 📚 Functionality </h2> </a>
 
-⚠️🚧 I will add a gif of the working VM ⚠️🚧
+![VM Gif 01](https://github.com/GitFlaviobc/Born2beRoot/blob/main/gif/Born2beRoot.gif)
 
 <p></p>
 <a href = "#content">📋</a>
